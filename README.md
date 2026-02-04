@@ -27,9 +27,8 @@ I'm a **Hardware Engineer** and **AI Automation Engineer** passionate about buil
 
 ### Programming Languages
 ```
-C          ███████████████████░░  95%
-Python     ██████████████████░░░  90%
-JavaScript ████████████████░░░░░  80%
+Python          ███████████████████░░  90%
+C               ██████████████████░░░  85%
 ```
 
 ### Technologies & Tools
@@ -37,19 +36,16 @@ JavaScript ████████████████░░░░░  80%
 **🤖 Automation & AI:**
 - n8n (Advanced Expert)
 - AI Automation Workflows
-- Machine Learning Integration
 
 **⚡ Hardware & Embedded Systems:**
 - Arduino
 - Raspberry Pi
-- Embedded Systems Programming
+- Embedded Hardware
 - PCB Design & Circuit Manufacturing
 
 **💻 Programming & Development:**
 - Node.js
 - Docker & Containerization
-- RESTful APIs
-- IoT Development
 
 **🔌 Electronics:**
 - Circuit Design
@@ -64,7 +60,6 @@ JavaScript ████████████████░░░░░  80%
 ```
 🤖 Artificial Intelligence
   └─ Intelligent Automation
-  └─ Machine Learning Applications
   
 🦾 Robotics
   └─ Arduino Projects
